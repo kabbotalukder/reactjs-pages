@@ -6,6 +6,11 @@
     text-align: center;
 }
 
-.pad-35-t{
+.pad-25-t{
     padding-top: 25px;
+}
+
+.no-link {
+    color: black;
+    text-decoration: none;
 }
